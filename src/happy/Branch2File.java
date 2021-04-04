@@ -1,6 +1,6 @@
 package happy;
 
-public class OwnLocation {
+public class Branch2File {
 
 public static void main(String[] args) {
 		
