@@ -1,6 +1,6 @@
 package happy;
 
-public class OwnLocation {
+public class SubOwnLocation {
 
 	public static void main(String[] args) {
 		
