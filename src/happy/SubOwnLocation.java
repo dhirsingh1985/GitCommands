@@ -8,8 +8,7 @@ public class SubOwnLocation {
 	System.out.println(">>>>>>>>>>>>>>>>>>>>>>>  Sub BRANCH 1 <<<<<<<<<<<<<<<<<<<<<<<<<<<");
 	
 	System.out.println(">>>>>>>>>>>>>>>>>>>>>>>  Conflict resolution <<<<<<<<<<<<<<<<<<<<<<<<<<<");
-	
-	
+
 	}
 }
 
