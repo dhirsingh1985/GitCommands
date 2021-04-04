@@ -13,6 +13,8 @@ public class SubOwnLocation {
 
 	System.out.println(">>>>>>>>>>>>>>>>>>>>>>>  Conflict resolution <<<<<<<<<<<<<<<<<<<<<<<<<<<");
 
+	System.out.println(">>>>>>>>>>>>>>>>>>>>>>>  Conflict 2 <<<<<<<<<<<<<<<<<<<<<<<<<<<");
+	
 	}
 }
 
