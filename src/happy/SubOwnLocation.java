@@ -15,6 +15,7 @@ public class SubOwnLocation {
 
 	System.out.println(">>>>>>>>>>>>>>>>>>>>>>>  Conflict 2 <<<<<<<<<<<<<<<<<<<<<<<<<<<");
 	
+
 	}
 }
 
